@@ -25,4 +25,10 @@ The full archive? Eyes-only.
 ────────────────────────────────────
 👁‍🗨 HEXV0R // 2025
 https://t.me/+O9YcdWa0akIwYWY1
+
 github.com/HEXV0R
+
+This dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+You MUST give appropriate credit to HEXV0R.
+
