@@ -28,7 +28,9 @@ https://t.me/+O9YcdWa0akIwYWY1
 
 github.com/HEXV0R
 
-This dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+## ⚠️ Usage Rules
+You are free to use, share, or remix this tool and data — **only if proper credit is given**:
+- Always mention HEXV0R in your forks, tools, and reposts.
+- Do not redistribute without attribution.
 
-You MUST give appropriate credit to HEXV0R.
 
